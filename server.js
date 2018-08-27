@@ -10,7 +10,7 @@ var port = 3000;
 var app = express();
 
 
-//testing commits
+//testing commits to see if surface works
 //View Engine
 app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'ejs');
